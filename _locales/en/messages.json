@@ -1,0 +1,8 @@
+{
+    "extName": {
+        "message": "Close to recently used tab"
+    },
+    "extDesc": {
+        "message": "After closing a tab switch to the last used tab."
+    }
+}
